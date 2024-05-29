@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import express from 'express';
 import bodyParser from 'body-parser';
 
@@ -12,6 +13,8 @@ app.use(todosRouter);
 
 app.listen(3000)
 =======
+=======
+>>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19
 const num1 = document.getElementById('num1') as HTMLInputElement;
 const num2 = document.getElementById('num2') as HTMLInputElement;
 const btn = document.querySelector('button')! ;
@@ -61,5 +64,9 @@ const promise = new Promise<string>((resolve , reject) => {
 
 promise.then((result) => {
     console.log(result.split('w'))
+<<<<<<< HEAD
+})
+>>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19
+=======
 })
 >>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19

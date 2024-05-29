@@ -28,7 +28,11 @@
     "module": "commonjs",                                /* Specify what module code is generated. */
     // "rootDir": "./",                                  /* Specify the root folder within your source files. */
 <<<<<<< HEAD
+<<<<<<< HEAD
      "moduleResolution": "node10",                     /* Specify how TypeScript looks up a file from a given module specifier. */
+=======
+    // "moduleResolution": "node10",                     /* Specify how TypeScript looks up a file from a given module specifier. */
+>>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19
 =======
     // "moduleResolution": "node10",                     /* Specify how TypeScript looks up a file from a given module specifier. */
 >>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19

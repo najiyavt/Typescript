@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "use strict";
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
@@ -12,6 +13,8 @@ app.use(body_parser_1.default.json());
 app.use(todos_1.default);
 app.listen(3000);
 =======
+=======
+>>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19
 var num1 = document.getElementById('num1');
 var num2 = document.getElementById('num2');
 var btn = document.querySelector('button');
@@ -47,4 +50,7 @@ var promise = new Promise(function (resolve, reject) {
 promise.then(function (result) {
     console.log(result.split('w'));
 });
+<<<<<<< HEAD
+>>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19
+=======
 >>>>>>> 9bfb2aa5ac35640b95e31caf854b04a91ae25a19
